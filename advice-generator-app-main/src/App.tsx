@@ -11,7 +11,7 @@ function App() {
   const fetchData = async () => {
     fetch("https://api.adviceslip.com/advice").then(async (res) => {
       const response = await res.json();
-      console.log("response", response.slip.advice);
+      // console.log("response", response.slip.advice);
       setAdvice(response.slip);
     });
   };
