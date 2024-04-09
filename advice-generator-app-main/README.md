@@ -27,7 +27,7 @@ Users should be able to:
 
 #### Desktop Version
 
-![Desktop Version](/public/images/Desktop_Screenshot.png)
+![Desktop Version](public/images/Desktop_Screenshot.png)
 
 <!-- ### Links
 
