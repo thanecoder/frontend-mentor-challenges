@@ -1,0 +1,62 @@
+.attribution {
+  font-size: 11px;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.advice-container {
+  height: 100vh;
+  background-color: hsl(217, 19%, 38%);
+}
+.advice-box {
+  color: hsl(193, 38%, 86%);
+  background-color: hsl(217, 19%, 24%);
+  width: 530px;
+  height: 300px;
+  text-align: center;
+  border-radius: 20px;
+  display: block;
+  position: absolute;
+  top: 30%;
+  left: 36%;
+}
+.advice-id {
+  font-size: 14px;
+  color: hsl(150, 100%, 66%);
+  margin-top: 35px;
+  margin-bottom: 20px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+}
+.advice-text {
+  width: 450px;
+  text-align: center;
+  margin: auto;
+  height: 112px;
+}
+
+.advice-divider {
+  height: 15px;
+  margin-top: 40px;
+}
+.advice-dice {
+  background-color: hsl(150, 100%, 66%);
+  border-radius: 50px;
+  width: 60px;
+  margin: auto;
+  margin-top: 25px;
+  height: 60px;
+  cursor: pointer;
+}
+.advice-dice:hover {
+  box-shadow: hsl(150, 100%, 66%) 0 0 20px 2px;
+}
+.dice-image {
+  height: 22px;
+  padding: 20px;
+}
