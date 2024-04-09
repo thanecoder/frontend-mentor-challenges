@@ -27,7 +27,7 @@ Users should be able to:
 
 #### Desktop Version
 
-![Desktop Version](/public/images/Screenshot%202024-04-09%20at%2019-00-53.png)
+![Desktop Version](/public/images/Desktop_Screenshot.png)
 
 <!-- ### Links
 
