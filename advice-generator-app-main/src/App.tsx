@@ -9,11 +9,15 @@ function App() {
   });
 
   const fetchData = async () => {
-    // fetch("https://api.adviceslip.com/advice").then(async (res) => {
-    //   const response = await res.json();
-    //   // console.log("response", response.slip.advice);
-    //   setAdvice(response.slip);
-    // });
+    fetch("https://api.adviceslip.com/advice").then(async (res) => {
+      const response = await res.json();
+      // console.log("response", response.slip.advice);
+      setAdvice({
+        id: 117,
+        advice:
+          "It is easy to sit up and take notice, what's difficult is getting up and take action.",
+      });
+    });
   };
 
   useEffect(() => {
