@@ -30,11 +30,16 @@ function App() {
           &rdquo;
         </div>
         <img
+          alt="advice-divider"
           className="advice-divider"
           src="/images/pattern-divider-desktop.svg"
         />
         <div className="advice-dice" onClick={fetchData}>
-          <img src="/images/icon-dice.svg" className="dice-image" />
+          <img
+            alt="dice-image"
+            src="/images/icon-dice.svg"
+            className="dice-image"
+          />
         </div>
       </div>
       <div className="attribution">
