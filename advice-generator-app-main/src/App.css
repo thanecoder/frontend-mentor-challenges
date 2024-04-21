@@ -25,7 +25,7 @@
   text-align: center;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   position: relative;
-  bottom: -250px;
+  bottom: -230px;
   margin: auto;
 }
 .advice-id {
@@ -41,7 +41,7 @@
   width: 500px;
   text-align: center;
   margin: auto;
-  height: 112px;
+  height: 140px;
   font-size: 28px;
   line-height: 1.5;
 }
